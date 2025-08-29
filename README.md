@@ -7,7 +7,7 @@ Numeroitu lista
 2.  John
 3.  Adam
 
-                  **TABLE**
+                    TABLE
  | Left Align | Center Align | Right Align |
  |:-----------|:------------:|------------:|
  | Data       | Data         | Data        |
